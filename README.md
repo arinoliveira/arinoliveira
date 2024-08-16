@@ -5,3 +5,5 @@
  ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=arianesilva2803@gmail.com
+
+![image](https://github.com/user-attachments/assets/a020c461-05d0-4212-9ca6-0f4e186bfe1a)
